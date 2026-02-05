@@ -23,6 +23,22 @@
 
 ---
 
+## 📸 Ekran Görüntüleri
+
+<p align="center">
+  <img src="docs/login.png" alt="Giriş Sayfası" width="100%">
+  <br>
+  <em>🔐 Modern Glassmorphism tasarımlı giriş sayfası</em>
+</p>
+
+<p align="center">
+  <img src="docs/dashboard.png" alt="Dashboard" width="100%">
+  <br>
+  <em>🎛️ Kural editörü, AST görselleştirici ve performans metrikleri</em>
+</p>
+
+---
+
 ## 📖 Proje Hakkında
 
 **POLYX PRO++**, dinamik iş kurallarını güvenli ve yüksek performanslı bir şekilde değerlendirmek için tasarlanmış kurumsal seviye bir **Kural Motoru (Rule Engine)** sistemidir. Proje, geleneksel `eval()` fonksiyonunu kullanmadan, özel bir **Lexer-Parser-Evaluator** mimarisi ile kural ifadelerini işler.
