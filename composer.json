@@ -1,0 +1,25 @@
+{
+    "name": "polyx/decision-engine",
+    "description": "POLYX PRO++ Kurumsal Karar Motoru - Yüksek Performanslı Kural İşleme Sistemi",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "POLYX Development Team",
+            "email": "dev@polyx.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Polyx\\Engine\\": "src/Engine/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
